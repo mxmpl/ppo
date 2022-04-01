@@ -1,0 +1,17 @@
+ipykernel
+jax
+dm-acme
+dm-acme[jax]
+dm-acme[tf]
+dm-acme[envs]
+dm-haiku
+dm-tree
+dm-reverb
+chex
+mujoco-py
+imageio
+imageio-ffmpeg
+numpy
+pandas
+matplotlib
+gym>=0.22.0
