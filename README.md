@@ -39,7 +39,7 @@ pip install .
 In the `scripts` folder, you can either execute the `run.py` Python file
 or run the bash scripts.
 
-The results are available [here](https://drive.google.com/drive/folders/1KjlnRTkYyJfNeJnIumER1FewQfwsZUde?usp=sharing).
+The results are available [here](assets/results).
 
 ### InvertedPendulum-v2
 
